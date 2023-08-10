@@ -1,2 +1,3 @@
-# sql_test
+# Test files
+#SQL
 #JDBC
